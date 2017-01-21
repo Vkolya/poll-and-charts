@@ -1,5 +1,5 @@
 {
-    "name": "pollANDcharts",
+    "name": "vkolya/pollANDcharts",
     "description": "An widget to create polls and to wrap google chart for Yii Framework 2",
     "keywords": ["yii2", "poll", "widget", "poll-widget", "yii2-poll-widget"],
     "type": "yii2-extension",
@@ -18,6 +18,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "pollANDcharts\\": "" }
+        "psr-4": { "vkolya\\pollANDcharts\\": "" }
     }
 }
