@@ -17,6 +17,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "vantukh\\pollANDcharts\\": "" }
+        "psr-4": { "pollANDcharts\\": "" }
     }
 }
