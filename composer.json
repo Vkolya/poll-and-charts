@@ -1,5 +1,5 @@
 {
-    "name": "poll&chart",
+    "name": "pollANDcharts",
     "description": "An widget to create polls and to wrap google chart for Yii Framework 2",
     "type": "yii2-extension",
     "minimum-stability": "dev",
