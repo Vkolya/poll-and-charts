@@ -5,7 +5,7 @@
     "minimum-stability": "dev",
     "license": "BSD-2-Clause",
     "support": {
-        "source": "https://github.com/Dzhus111/pollext"
+        "source": "https://github.com/Vkolya/pollANDcharts"
     },
     "authors": [
         {
@@ -17,6 +17,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "vantukh\\poll&charts\\": "" }
+        "psr-4": { "vantukh\\pollANDcharts\\": "" }
     }
 }
