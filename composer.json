@@ -1,0 +1,22 @@
+{
+    "name": "poll&chart",
+    "description": "An widget to create polls and to wrap google chart for Yii Framework 2",
+    "type": "yii2-extension",
+    "minimum-stability": "dev",
+    "license": "BSD-2-Clause",
+    "support": {
+        "source": "https://github.com/Dzhus111/pollext"
+    },
+    "authors": [
+        {
+            "name": "Mykola Vantukh",
+            "email": "vkolia@mail.ua"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": { "vantukh\\poll&charts\\": "" }
+    }
+}
