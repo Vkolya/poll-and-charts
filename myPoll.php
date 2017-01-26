@@ -1,6 +1,6 @@
 <?php
 
-namespace vkolya\poll;
+namespace vkolya\pollandcharts;
 
 use yii\base\Widget;
 use yii\helpers\Html;
