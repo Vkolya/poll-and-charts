@@ -1,6 +1,6 @@
 <?php
 use yii\helpers\Html;
-use vkolya\poll-and-charts\AjaxSubmitButton;
+use vkolya\poll\AjaxSubmitButton;
 ?>
 <style>
     .mypoll {
