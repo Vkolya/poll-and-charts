@@ -1,12 +1,12 @@
 {
-    "name": "vkolya/pollANDcharts",
+    "name": "vkolya/poll-and-charts",
     "description": "An widget to create polls and to wrap google chart for Yii Framework 2",
     "keywords": ["yii2", "poll", "widget", "poll-widget", "yii2-poll-widget"],
     "type": "yii2-extension",
     "minimum-stability": "dev",
     "license": "BSD-2-Clause",
     "support": {
-        "source": "https://github.com/Vkolya/pollANDcharts"
+        "source": "https://github.com/Vkolya/poll-and-charts"
     },
     "authors": [
         {
@@ -18,6 +18,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "vkolya\\pollANDcharts\\": "" }
+        "psr-4": { "vkolya\\poll-and-charts\\": "" }
     }
 }
