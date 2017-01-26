@@ -9,10 +9,10 @@ The preferred way to install this extension is through composer.
 
 Either run
 
-    php composer.phar require "vkolya/poll":"dev-master"
+    php composer.phar require "vkolya/poll-and-charts":"dev-master"
 or add
 
-    "vkolya/poll":"dev-master"
+    "vkolya/poll-and-charts":"dev-master"
 to the require section of your application's composer.json file.
 
 <b>Usage</b>
@@ -37,7 +37,7 @@ use vkolya\poll\myPoll; Then invoke the widget and specify the name of the poll 
             height => 300,
             width => 450,
                 ),
-            ])
+                ])
 <p align="center">
   <img src="https://github.com/Vkolya/poll-and-charts/blob/master/views/examp.jpg" width="350"/>
 </p>
