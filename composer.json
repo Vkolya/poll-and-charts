@@ -9,7 +9,7 @@
         "source": "https://github.com/Vkolya/poll-and-charts"
     },
     "repositories" : [
-        {"type" : "vcs", "url" : "https://github.com/Vkolya/pollANDcharts"}
+        {"type" : "svn", "url" : "https://github.com/Vkolya/poll-and-charts"}
     ],
     "authors": [
         {
