@@ -9,10 +9,10 @@ The preferred way to install this extension is through composer.
 
 Either run
 
-php composer.phar require "vkolya/poll":"dev-master"
+            php composer.phar require "vkolya/poll":"dev-master"
 or add
 
-"vkolya/poll":"dev-master"
+           "vkolya/poll":"dev-master"
 to the require section of your application's composer.json file.
 
 Usage
@@ -38,7 +38,4 @@ use vkolya\poll\myPoll; Then invoke the widget and specify the name of the poll 
                     width => 450,
                
                 ),
-            ])
-
-
-
+            ])
