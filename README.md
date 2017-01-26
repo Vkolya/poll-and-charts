@@ -39,3 +39,7 @@ use vkolya\poll\myPoll; Then invoke the widget and specify the name of the poll 
                
                 ),
             ])
+   <p align="center">
+  <img src="https://github.com/Vkolya/poll-and-charts/blob/master/views/examp.jpg" width="350"/>
+
+</p>
