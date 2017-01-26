@@ -9,10 +9,10 @@ The preferred way to install this extension is through composer.
 
 Either run
 
-            php composer.phar require "vkolya/poll":"dev-master"
+    php composer.phar require "vkolya/poll":"dev-master"
 or add
 
-           "vkolya/poll":"dev-master"
+    "vkolya/poll":"dev-master"
 to the require section of your application's composer.json file.
 
 <b>Usage</b>
@@ -21,25 +21,23 @@ At first, import widget classes in view file where you want create poll
 
 use vkolya\poll\myPoll; Then invoke the widget and specify the name of the poll and the response options
 
-            echo myPoll::widget([
-                'visualization' => 'PieChart',
-                'pullName' => 'What framework do you know ?',
+    echo myPoll::widget([
+         'visualization' => 'PieChart',
+         'pullName' => 'What framework do you know ?',
        
-                'answerOptions'=>
+         'answerOptions'=>
                 [
                  
-                 'Laravel',
-                 'Yii2',
-                 'Symfony',
+            'Laravel',
+            'Yii2',
+            'Symfony',
                  
                 ],
-                 'diagrammsOptions' => array(title => 'Frameworks',
-                    height => 300,
-                    width => 450,
-               
+        'diagrammsOptions' => array(title => 'Frameworks',
+            height => 300,
+            width => 450,
                 ),
             ])
-   <p align="center">
+<p align="center">
   <img src="https://github.com/Vkolya/poll-and-charts/blob/master/views/examp.jpg" width="350"/>
-
 </p>
