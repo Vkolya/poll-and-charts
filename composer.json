@@ -8,9 +8,7 @@
     "support": {
         "source": "https://github.com/Vkolya/poll-and-charts"
     },
-    "repositories" : [
-        {"type" : "svn", "url" : "https://github.com/Vkolya/poll-and-charts"}
-    ],
+    
     "authors": [
         {
             "name": "Mykola Vantukh",
