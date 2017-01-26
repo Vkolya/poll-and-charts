@@ -1,5 +1,5 @@
 <?php
-  namespace frontend\widgets\myFirstWidget;
+  namespace vkolya\poll;
     use yii\base\Model;
     
     class VoicesOfPoll extends Model{
