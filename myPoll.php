@@ -10,7 +10,7 @@ use yii\helpers\Json;
 use yii\web\View;
 
 /**
- * An widget to create poelZXZXls and to wrap google chart for Yii Framework 2
+ * An widget to create polls and to wrap google chart for Yii Framework 2
  * by Vantukh Mykola
  *
  * @see https://github.com/ScottHuangZL/yii2-google-chart
