@@ -1,6 +1,6 @@
 <?php
  
-namespace vkolya\poasdasdasdll;
+namespace vkolya\poll;
 
 
 class myPollDb  {
