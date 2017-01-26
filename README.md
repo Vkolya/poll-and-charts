@@ -21,24 +21,24 @@ At first, import widget classes in view file where you want create poll
 
 use vkolya\poll\myPoll; Then invoke the widget and specify the name of the poll and the response options
 
-echo myPoll::widget([
-    'visualization' => 'PieChart',
-        'pullName' => 'What framework do you know ?',
+            echo myPoll::widget([
+                'visualization' => 'PieChart',
+                'pullName' => 'What framework do you know ?',
        
-             'answerOptions'=>
-             [
+                'answerOptions'=>
+                [
                  
                  'Laravel',
                  'Yii2',
                  'Symfony',
                  
-             ],
-            'diagrammsOptions' => array(title => 'Frameworks',
+                ],
+                 'diagrammsOptions' => array(title => 'Frameworks',
                     height => 300,
                     width => 450,
                
                 ),
-])
+            ])
 
 
 
