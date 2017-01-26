@@ -15,7 +15,7 @@ or add
            "vkolya/poll":"dev-master"
 to the require section of your application's composer.json file.
 
-Usage
+<b>Usage</b>
 
 At first, import widget classes in view file where you want create poll
 
