@@ -19,6 +19,6 @@
         "yiisoft/yii2": "*"
     },
     "autoload": {
-        "psr-4": { "vkolya\\poll-and-charts\\": "" }
+        "psr-4": { "vkolya\\poll\\": "" }
     }
 }
