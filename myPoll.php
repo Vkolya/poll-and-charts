@@ -1,6 +1,6 @@
 <?php
 
-namespace frontend\widgets\myFirstWidget;
+namespace vkolya\poll-and-charts;
 
 use yii\base\Widget;
 use yii\helpers\Html;
